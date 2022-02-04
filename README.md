@@ -1,8 +1,10 @@
 # Projeto Login Page
 
-Projeto flutter para logar Utilizando Api com metodo Post.
+Projeto flutter para logar Utilizando Api Http Post.
 A new Flutter project.
-![Screenshot_1643325491](https://user-images.githubusercontent.com/98062365/151459316-f51e2a61-7ed4-4980-a015-ec4d568790e4.png)
+
+![login](https://user-images.githubusercontent.com/98062365/152453941-cab37ad7-0c7f-4963-835b-267a6871b251.gif)
+![login2](https://user-images.githubusercontent.com/98062365/152453946-c10172b9-362a-47e2-b0d0-114de46189e4.gif)
 
 ## Getting Started
 
