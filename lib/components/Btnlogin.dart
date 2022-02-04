@@ -19,7 +19,7 @@ class BtnLogin extends StatelessWidget {
           alignment: Alignment.centerLeft,
           decoration: BoxDecoration(
               color: Colors.white,
-              borderRadius: BorderRadius.circular(10),
+              borderRadius: BorderRadius.circular(40),
               boxShadow: [
                 BoxShadow(
                   color: Colors.black26,
@@ -58,7 +58,7 @@ class BtnLogin extends StatelessWidget {
           alignment: Alignment.centerLeft,
           decoration: BoxDecoration(
               color: Colors.white,
-              borderRadius: BorderRadius.circular(10),
+              borderRadius: BorderRadius.circular(40),
               boxShadow: [
                 BoxShadow(
                   color: Colors.black26,
@@ -100,7 +100,7 @@ class BtnLogin extends StatelessWidget {
             },
             padding: EdgeInsets.all(15),
             shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(15),
+              borderRadius: BorderRadius.circular(40),
             ),
             color: Colors.white,
             child: Text(
